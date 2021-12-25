@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/pearmock/static/js/main.0fb41c8d.js",
+    "index.html": "/pearmock/index.html",
+    "main.0fb41c8d.js.map": "/pearmock/static/js/main.0fb41c8d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0fb41c8d.js"
+  ]
+}
